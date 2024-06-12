@@ -6,7 +6,6 @@ In our project, we integrated the Dextools API to enhance our platform with real
 <img width="881" alt="Screenshot 2024-06-12 at 4 23 16 PM" src="https://github.com/Web3-Agent/contract-web3agent/assets/3726180/64c6a641-554d-478b-aefc-90f6673b82b1">
 
 ![image](https://github.com/Web3-Agent/web3agent-v2/assets/16322269/ef53b45e-8c81-483c-bb74-30b60e7b0b6e)
-![image](https://github.com/Web3-Agent/web3agent-v2/assets/16322269/ef53b45e-8c81-483c-bb74-30b60e7b0b6e)
 
 
 ### Prompts
